@@ -1,3 +1,10 @@
+---
+layout: post
+title: Better networking with Moya Network
+categories: networking
+author: Hai Nguyen H.P.
+---
+
 Nếu các bạn là một dev iOS thì chắc hẳn bạn đã từng triển khai một số lệnh gọi REST trong ứng dụng của mình. Và thư viện phổ biến nhất hỗ trợ việc này là <b>Alamofire</b>. Mình cũng đã sử dụng thư viện này và những vấn đề mình tin rằng các bạn hay gặp phải khi sử dụng thư viện <b>Alamofire</b> là:
 
 - Không biết phải bắt đầu như thế nào?
